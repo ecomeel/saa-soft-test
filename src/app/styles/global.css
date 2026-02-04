@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: ui-sans-serif, Roboto;
+  background: #fff;
+}
+
+* {
+  box-sizing: border-box;
+}
